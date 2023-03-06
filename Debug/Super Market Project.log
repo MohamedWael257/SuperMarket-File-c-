@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\الكلية\files\مقدمة في الحاسب\New folder\Super Market Project\Source.cpp(125,22): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  Super Market Project.vcxproj -> D:\الكلية\files\مقدمة في الحاسب\New folder\Super Market Project\Debug\Super Market Project.exe
